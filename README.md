@@ -1,1 +1,3 @@
 # Refrigerator
+
+This program was a final project for ICS 372 Object Oriented Design and Implementation. It was created by Prechar Xiong, Christopher Corcoran and Thomas Wohlever. The program uses object-oriented programming and design patterns to create a refrigerator which contains a fridge and a freezer that maintains their temperature according to the users desire. The refrigerator uses the state pattern to allow the fridge and freezer to maintain their temperature. Information on the fridge and freezer can be changed within the config.properties, while the desired fridge temp, desired freezer temp and room temp can all be changed within the graphic user interface.
